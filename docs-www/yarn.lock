@@ -29,10 +29,10 @@
     react-helmet "^5.2.0"
     react-live "^1.10.1"
 
-"@brainhubeu/react-carousel@^1.10.28":
-  version "1.10.28"
-  resolved "https://registry.yarnpkg.com/@brainhubeu/react-carousel/-/react-carousel-1.10.28.tgz#e3fe13a4c1cc043fa4917f5b549fe51d88aead11"
-  integrity sha512-1q15aGTMzyOQX5lXNCM6JYO6SGmdaI9WxOFerN5ytDmvbAB12gcOjrESdvcOzOgfU8dHi6+jAU177oeZV3Gs4Q==
+"@brainhubeu/react-carousel@^1.10.30":
+  version "1.10.30"
+  resolved "https://registry.yarnpkg.com/@brainhubeu/react-carousel/-/react-carousel-1.10.30.tgz#693944fe0127ad6f1547ca9fa504d7502d35089c"
+  integrity sha512-2JfRxJkVz3saGOpDoKZkpDqkO/C9GzRj+RP6O4IKuuZ3+zjsdgQBTJ+Oo6Y6pdxcJP/CRxhXpQsmwhd/x/rNyw==
 
 "@types/configstore@^2.1.1":
   version "2.1.1"
@@ -3300,10 +3300,10 @@ escape-string-regexp@1.0.5, escape-string-regexp@^1.0.2, escape-string-regexp@^1
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
   integrity sha1-G2HAViGQqN/2rjuyzwIAyhMLhtQ=
 
-eslint-config-brainhub@^1.11.1:
-  version "1.11.1"
-  resolved "https://registry.yarnpkg.com/eslint-config-brainhub/-/eslint-config-brainhub-1.11.1.tgz#f6f6ebf0f984128f4a5f0d7c5a85dd5c96c9215a"
-  integrity sha512-yoO1E/Wvxp9VUX5SmIcDZYKTMqNnD5qbjSdwyrHr0s8g3aakya2SWA95OdlDN4+ir9pFfBKeuOkojsjqQ+2MDA==
+eslint-config-brainhub@^1.12.0:
+  version "1.12.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-brainhub/-/eslint-config-brainhub-1.12.0.tgz#40ec8809f1b017f51904b5a4197aebf4bb3872aa"
+  integrity sha512-cM5WlzK4bXVw/+iDo2aZTxjuypBtU/6Kol/xCrLHikT8V5/MXvQCfbb8I0xBKJ953UqWfFLC3VMVXZ1sC7a6bA==
   dependencies:
     eslint-plugin-babel "^5.3.0"
     eslint-plugin-import "^2.16.0"
